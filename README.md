@@ -1,6 +1,6 @@
 # STM32F103_Line_Follower_Robot
 
-• This is Line Follower Robot project with PID controller. Main purpose of this project is to control the robot with PID algorithm. STM32F1 series MCU is used for controller. Keil uVision used as programming software
+• This is Line Follower Robot project with PID controller. Main purpose of this project is to control the robot with PID algorithm. STM32F1 series MCU is used for controller. Keil uVision used as programming software.
 
 <img src="https://user-images.githubusercontent.com/109805805/214834536-6c4dc1b9-1dc1-45c2-8cdf-09c8c6f6d49f.png" width="600" height="500"> 
 
