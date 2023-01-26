@@ -48,7 +48,7 @@ void initGPIO (void)
 	
 	AFIO->MAPR &= ~(1<<12);
 	AFIO->MAPR |= (2<<10);
-  GPIOA->CRL &= ~(0xffffffff);
+  	GPIOA->CRL &= ~(0xffffffff);
 	GPIOB->CRH &= ~(0xffffffff);
 	GPIOB->CRL &= ~(0xffffffff);
 	GPIOC->CRH &= ~(0xffffffff);
